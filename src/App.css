@@ -1,0 +1,11 @@
+.App {
+  text-align: -webkit-center;
+}
+
+.form-label {
+  display: flex;
+}
+
+body {
+  background-color: rgb(244,247,248);
+}
